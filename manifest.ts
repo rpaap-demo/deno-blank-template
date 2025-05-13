@@ -1,3 +1,4 @@
+//Jung Ho Lee and Matt Chapman
 import { Manifest } from "deno-slack-sdk/mod.ts";
 
 /**
